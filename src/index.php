@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!--<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -29,5 +29,10 @@ table, th, td {
 </table>
 
 </body>
-</html>
+</html>-->
+
+<?php
+$welcome = "Hello Ankit";
+echo $welcome;
+?>
 
